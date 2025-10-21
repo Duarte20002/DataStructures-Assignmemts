@@ -1,0 +1,14 @@
+C:\Users\duart\source\repos\List 03\bin\Debug\net9.0\List 03.exe
+C:\Users\duart\source\repos\List 03\bin\Debug\net9.0\List 03.deps.json
+C:\Users\duart\source\repos\List 03\bin\Debug\net9.0\List 03.runtimeconfig.json
+C:\Users\duart\source\repos\List 03\bin\Debug\net9.0\List 03.dll
+C:\Users\duart\source\repos\List 03\bin\Debug\net9.0\List 03.pdb
+C:\Users\duart\source\repos\List 03\obj\Debug\net9.0\List 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duart\source\repos\List 03\obj\Debug\net9.0\List 03.AssemblyInfoInputs.cache
+C:\Users\duart\source\repos\List 03\obj\Debug\net9.0\List 03.AssemblyInfo.cs
+C:\Users\duart\source\repos\List 03\obj\Debug\net9.0\List 03.csproj.CoreCompileInputs.cache
+C:\Users\duart\source\repos\List 03\obj\Debug\net9.0\List 03.dll
+C:\Users\duart\source\repos\List 03\obj\Debug\net9.0\refint\List 03.dll
+C:\Users\duart\source\repos\List 03\obj\Debug\net9.0\List 03.pdb
+C:\Users\duart\source\repos\List 03\obj\Debug\net9.0\List 03.genruntimeconfig.cache
+C:\Users\duart\source\repos\List 03\obj\Debug\net9.0\ref\List 03.dll
